@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble gratulation and petition of divers His Majesties faithfull subjects of the true Protestant religion within the county palatine of Lancaster with His Majesties answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44976</idno>
+            <idno type="STC">Wing H3416</idno>
+            <idno type="STC">ESTC R30350</idno>
+            <idno type="EEBO-CITATION">11299207</idno>
+            <idno type="OCLC">ocm 11299207</idno>
+            <idno type="VID">47349</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47349)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1464:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble gratulation and petition of divers His Majesties faithfull subjects of the true Protestant religion within the county palatine of Lancaster with His Majesties answer thereunto.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker ... and by the assignes of John Bill,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Lancashire (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47349:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:47349:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>The humble GRATULATION AND PETITION Of divers His Majeſties Faith<g ref="char:EOLhyphen"/>full Subjects of the true Proteſtant Religion, within the County Palatine of <hi>Lancaſter.</hi>
+            </p>
+            <p>VVith His Majeſties Anſwer thereunto.</p>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:47349:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="1" facs="tcp:47349:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>To the Sacred Majeſtie of our moſt gracious Soveraign Lord, <hi>Charles,</hi> By the Grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland</hi> King, Defender of the Faith, &amp;c.</head>
+            <head type="sub">The humble Gratulation and Petition of divers His Majeſties Faithfull Subjects of the true Proteſtant Religion, within the County Palatine of LANCASTER.</head>
+            <opener>
+               <salute>Moſt Gracious Soveraign,</salute>
+            </opener>
+            <p>THe moſt reall and convincing Teſtimonies of your Princely care for the Advancement of Gods true Religion in your Majeſties Realms, and the common Good of all your Subjects, could no leſſe then draw from us (who have hitherto in theſe ſtirring times ſate ſtill) this humble Acknowledgement of our due and ne<g ref="char:EOLhyphen"/>ceſſary Thanks.</p>
+            <p>
+               <seg rend="decorInit">W</seg>E, with the inmoſt and choiceſt thoughts of our Souls, doe eſteem and prize your Maje<g ref="char:EOLhyphen"/>ſties moſt Righteous Intenti<g ref="char:EOLhyphen"/>ons of Governing your Liege people, according to the wholſom Laws of
+<pb n="2" facs="tcp:47349:3"/>
+               <!-- PDF PAGE 21 -->this Kingdom, a thing ſo often, and with ſuch earneſtneſſe avowed by your Sacred Majeſtie, whereunto we yeeld that hearty Credence which is due to ſo Religious and Righteous a Prince: We do alſo with all hu<g ref="char:EOLhyphen"/>mility and thankfulneſſe acknowledge your manifold and evident Manifeſtations to the world, that you affect not an Arbitary Go<g ref="char:EOLhyphen"/>vernment, but the Common Proſperity and Happineſſe of all your Loyall Subjects, by your readineſſe to joyn with your Parliament in a ſpeedy raiſing of Forces for a timely ſuppreſſion of that odious Rebellion in <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> By your late Proclamation, for the put<g ref="char:EOLhyphen"/>ting in due execution the Laws againſt Pa<g ref="char:EOLhyphen"/>piſts; By your moſt gracious condeſcending to the deſires of your Great Councell, in ſigning the Bills, for the Trienniall Parlia<g ref="char:EOLhyphen"/>ment; For relinquiſhing your title of Im<g ref="char:EOLhyphen"/>poſing upon Merchandiſe, and power of Preſſing Souldiers; For the taking away of the Star-Chamber, and high Commiſſion Courts; For the Regulating of the Councel-Table; As alſo the Bills for the Forreſts and Stannerie Courts; with other moſt neceſſary Act. Moreover, we are conſident and well
+<pb n="3" facs="tcp:47349:3"/>
+               <!-- PDF PAGE 21 -->aſſured of your Majeſties Zeal for the ad<g ref="char:EOLhyphen"/>vancement of the true Proteſtant Religion, and with inexpreſſible joy do underſtand your moſt Chriſtian and Pious Reſoluton for the preſervation of thoſe powerfull en<g ref="char:EOLhyphen"/>couragements of Induſtry, Learning, and Pietie, the means and honour of the Mini<g ref="char:EOLhyphen"/>ſtery, for the maintenance and continuance of our Church-Government, and ſolemn Li<g ref="char:EOLhyphen"/>turgie of the Church of long continued, and generall Approbation, of the moſt Pious and Learned of this Nation, and of other Coun<g ref="char:EOLhyphen"/>tries, compoſed according to the Primitive Pattern, by our bleſſed Martyrs, and other Religious and Learned men: As alſo your gracious pleaſure, That all Abuſes of Church and State ſhall be Reformed, according to the Modell of Queen <hi>Elizabeths</hi> dayes, of ever bleſſed and famous memory; by the one you have weakned the hopes of the Sacrile<g ref="char:EOLhyphen"/>gious Devourers of the Churches Patrimo<g ref="char:EOLhyphen"/>nie; (if there be any ſuch) And by the other, at once provided againſt all Popiſh Impie<g ref="char:EOLhyphen"/>ties and Idolatries, and alſo againſt the grow<g ref="char:EOLhyphen"/>ing danger of Anabaptiſts, Browniſts, and other Noveliſts; and which Piety, Love, and
+<pb n="4" facs="tcp:47349:4"/>
+               <!-- PDF PAGE 22 -->Juſtice, we beſeech God to return into your Royall Boſom. But yet (moſt Gracious So<g ref="char:EOLhyphen"/>veraign) there is one thing that ſads our hearts, and hinders the perfection of our happineſſe, which is, The Diſtance and Miſ<g ref="char:EOLhyphen"/>underſtanding between your Majeſtie and your Parliament; whereby the hearts of your Subjects are filled with Fears and Jealouſies, Juſtice neglected, Sacred Ordinances pro<g ref="char:EOLhyphen"/>phaned, and Trading impaired, to the im<g ref="char:EOLhyphen"/>poveriſhing of many of your Liege People. For the Removall whereof, we cannot finde out any lawfull means, without your Maje<g ref="char:EOLhyphen"/>ſties aſſiſtance and direction.</p>
+            <p>Wherefore, we humbly beſeech your moſt Excellent Majeſtie, to continue your moſt Chriſtian and Pious Reſolution of Ruling your People according to the Laws of the Land, and maintaining of the ſame; of be<g ref="char:EOLhyphen"/>ing a zealous Defender of the eſtabliſhed Doctrine, Liturgie and Government of our Church, from Hereſie, Libertiniſme, and Prophaneſſe, an Advancer of Learning, Piety and Religion, an encourager of pain<g ref="char:EOLhyphen"/>full Orthodox Preachers; and whatſoever your Parliament ſhall offer to your Royall
+<pb n="5" facs="tcp:47349:4"/>
+               <!-- PDF PAGE 22 -->view, conducing to this bleſſed end, the common Good and Tranquility of your Subjects, to be pleaſed to condeſcend unto, and graciouſly to confirme; And withall to declare unto us ſome expedient way, how we may make a dutifull Addreſſe unto your Parliament, for the taking away of thoſe Differences and Impediments which ſtay the happy Proceedings of that moſt Ho<g ref="char:EOLhyphen"/>nourable Aſſembly, whereof your Majeſty is the Head (which once removed, we doubt not but you will ſpeedily be as neer your Parliament in Perſon, as in Affection; That there may be a bleſſed Harmony between your Highneſſe and that great Councell) and we ſhall, with all alacritie, obſerve the ſame: Humbly tendering our Lives, and Fortunes for the preſervation of your Roy<g ref="char:EOLhyphen"/>all Perſon, Crowne, and Dignitie, accord<g ref="char:EOLhyphen"/>ing to our bounden Duty, and Allegiance, and heartily praying for your Majeſties long and proſperous Reigne over us.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:47349:5"/>
+            <!-- PDF PAGE 23 -->
+            <p>
+               <figure>
+                  <q>HONI SOIT QVI MALL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="reply_to_petition">
+            <pb n="7" facs="tcp:47349:5"/>
+            <!-- PDF PAGE 23 -->
+            <head>At the Court at York, the ſixth of June 1642.</head>
+            <head type="sub">His Majeſtie hath commanded me to give you this His Anſwer to your Petition.</head>
+            <p>
+               <seg rend="decorInit">T</seg>hat Hee is very glad to finde ſuch reall Acknow<g ref="char:EOLhyphen"/>ledgements of thoſe great Graces which he hath bountifully beſtowed up<g ref="char:EOLhyphen"/>on this His Kingdom of <hi>England,</hi> in the time of this Parliament, and like<g ref="char:EOLhyphen"/>wiſe it is a great contentment to him to finde ſo many true Sons of the Church of <hi>England,</hi> as by your expreſ<g ref="char:EOLhyphen"/>ſions in the ſaw Petition both plainly appear to him; Aſſuring you, That he ſhall not yeeld in His Zeal and Con<g ref="char:EOLhyphen"/>ſtancy for the maintenance of the true Proteſtant Profeſſion, neither to Queen <hi>Elizabeth,</hi> nor to His Father of
+<pb n="8" facs="tcp:47349:6"/>
+               <!-- PDF PAGE 24 -->ever bleſſed memory, both againſt Po<g ref="char:EOLhyphen"/>piſh Superſtition on the one ſide, and Schiſmaticall Innovation and Con<g ref="char:EOLhyphen"/>fuſion on the other. In the laſt place, as he doth take in very good part your deſire of a good Underſtanding be<g ref="char:EOLhyphen"/>tween His Majeſtie and His two Hou<g ref="char:EOLhyphen"/>ſes of Parliament, ſo likewiſe He cannot but much commend the way that you take therein: And as for your Directions, if you will but ſeri<g ref="char:EOLhyphen"/>ouſly conſider His Majeſties Juſt and Neceſſary Deſires expreſſed in His Anſwers and Declarations ſince His coming to <hi>York,</hi> your Zeal and Know<g ref="char:EOLhyphen"/>ledge will not need more particular Inſtructions to make ſuch Addreſſes to both Houſes of Parliament, as the times require, and befitting ſuch loyall and true affected Subjects to your King and Countrey, as this Pe<g ref="char:EOLhyphen"/>tition expreſſeth you to be.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47349:6"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
